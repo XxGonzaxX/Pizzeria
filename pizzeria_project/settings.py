@@ -55,7 +55,7 @@ ROOT_URLCONF = 'pizzeria_project.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': ['/Users/gonza/Desktop/ProyectoPizzeria/pizzeria_project/pizzeria_project/plantillas'],
+        'DIRS': [],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
